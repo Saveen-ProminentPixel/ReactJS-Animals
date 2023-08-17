@@ -33,7 +33,7 @@ function AnimalShow({type}) {
             className="heart" 
             alt="heart" 
             src={heart}
-            style={{width: 10 + 10 * clicks + 'px'}}
+            style={{width: 20 + 10 * clicks + 'px'}}
         />
     </div>
     );
